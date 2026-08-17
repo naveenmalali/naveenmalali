@@ -89,3 +89,8 @@ A web-based Gym Membership Platform developed to manage member registrations, me
 - Certificate of Accomplishment in SQL (Basic)
 - Python Full Stack Web Development with Gen AI — Dhee Coding Lab
 - Hackathon Participation — Technical Coordinator at National-level Event
+
+## 🏆 Honors & Awards
+
+- Technical Coordinator for National-level Hackathon — Codefiesta 5.O
+- Executive Member — FORTUNE Association
