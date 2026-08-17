@@ -43,3 +43,42 @@ Developer currently upskilling in Full Stack Development and Gen AI.
 - Actively working on full stack projects to enhance practical knowledge and development skills.
 - Skilled in Python, HTML, CSS, JavaScript, and SQL.
 - Developing knowledge of both front-end and back-end development.
+
+## 🚀 Projects
+
+### 🤖 AI Resume Builder and Analyzer
+
+An AI-enabled web application to generate, analyze, and improve resumes based on user-provided information.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- Python
+- OpenAI API
+- SQL
+
+**Features:**
+- Resume generation
+- Resume analysis
+- Skill-gap identification
+- Personalized improvement suggestions
+- User-friendly resume creation interface
+
+### 🏋️ Gym Membership Platform
+
+A web-based Gym Membership Platform developed to manage member registrations, membership plans, and payment details.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+
+**Features:**
+- Member registration
+- Membership plan management
+- Payment details management
+- Member data management
+- Membership tracking
