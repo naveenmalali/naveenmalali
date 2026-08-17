@@ -32,3 +32,10 @@ Developer currently upskilling in Full Stack Development and Gen AI.
 ### AI
 - OpenAI API
 
+
+
+💼 Experience
+    ↓
+Python Full Stack Gen AI Trainee
+Dhee Coding Lab
+February 2026 - Present
