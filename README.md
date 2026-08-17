@@ -13,7 +13,6 @@ Developer currently upskilling in Full Stack Development and Gen AI.
 
 📍 Gadag, Karnataka, India
 
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -32,10 +31,15 @@ Developer currently upskilling in Full Stack Development and Gen AI.
 ### AI
 - OpenAI API
 
-
-
 ## 💼 Experience
-    ↓
-Python Full Stack Gen AI Trainee
-Dhee Coding Lab
-February 2026 - Present
+
+### Python Full Stack Gen AI Trainee
+
+**Dhee Coding Lab, Bengaluru**
+
+**February 2026 - Present**
+
+- Currently upskilling in Python Full Stack Development.
+- Actively working on full stack projects to enhance practical knowledge and development skills.
+- Skilled in Python, HTML, CSS, JavaScript, and SQL.
+- Developing knowledge of both front-end and back-end development.
