@@ -82,3 +82,10 @@ A web-based Gym Membership Platform developed to manage member registrations, me
 - Payment details management
 - Member data management
 - Membership tracking
+
+
+## 📜 Certifications
+
+- Certificate of Accomplishment in SQL (Basic)
+- Python Full Stack Web Development with Gen AI — Dhee Coding Lab
+- Hackathon Participation — Technical Coordinator at National-level Event
