@@ -90,7 +90,10 @@ A web-based Gym Membership Platform developed to manage member registrations, me
 - Python Full Stack Web Development with Gen AI — Dhee Coding Lab
 - Hackathon Participation — Technical Coordinator at National-level Event
 
-## 🏆 Honors & Awards
+## 📫 Connect With Me
 
-- Technical Coordinator for National-level Hackathon — Codefiesta 5.O
-- Executive Member — FORTUNE Association
+- 💻 GitHub: https://github.com/naveenmalali
+- 💼 LinkedIn: https://www.linkedin.com/in/naveen-malali
+- 🧩 LeetCode: https://leetcode.com/u/naveen-malali
+- 🏆 HackerRank: https://www.hackerrank.com/profile/naveenmalali77
+- 📧 Email: naveenmalali77@gmail.com
