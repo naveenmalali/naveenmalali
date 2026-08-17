@@ -34,7 +34,7 @@ Developer currently upskilling in Full Stack Development and Gen AI.
 
 
 
-💼 Experience
+##💼 Experience
     ↓
 Python Full Stack Gen AI Trainee
 Dhee Coding Lab
